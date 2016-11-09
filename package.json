@@ -1,0 +1,19 @@
+{
+  "name": "2lesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "start-game.js",
+  "dependencies": {
+    "colout": "^0.1.4",
+    "inquirer": "^1.2.2",
+    "prompt": "^1.0.0",
+    "linebyline": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
